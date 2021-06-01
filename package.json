@@ -1,5 +1,25 @@
 {
   "dependencies": {
+    "express": "^4.17.1",
     "nodemailer": "^6.6.1"
-  }
+  },
+  "name": "restful",
+  "description": "",
+  "version": "1.0.0",
+  "main": "test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kim-donguk/restful.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kim-donguk/restful/issues"
+  },
+  "homepage": "https://github.com/kim-donguk/restful#readme"
 }
